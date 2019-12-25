@@ -4,7 +4,7 @@
         private $dbhost = 'localhost';
         private $dbuser = 'root';
         private $dbpass = 'root';
-        private $dbname = 'Azfar';
+        private $dbname = 'vshop';
 
         // Connect
         public function connect(){
